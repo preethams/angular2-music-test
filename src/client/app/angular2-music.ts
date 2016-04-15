@@ -10,7 +10,6 @@ import {CliRouteConfig} from './route-config';
   pipes: []
 })
 @RouteConfig([
-
 ].concat(CliRouteConfig))
 
 export class Angular2MusicApp {

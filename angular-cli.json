@@ -1,3 +1,9 @@
 {
-  "routes": []
+  "routes": [
+    {
+      "routePath": "/artist/...",
+      "component": "ArtistRoot",
+      "componentPath": "./artist/artist-root.component"
+    }
+  ]
 }

@@ -24,3 +24,7 @@ testem.log
 /e2e/*.js
 /e2e/*.map
 
+#songs in general - FTP or something later
+/public/songs
+/dist/songs
+
