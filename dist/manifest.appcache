@@ -1,87 +1,71 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: 6cd23a6807d7b6b93e888eb4ed0543d660f26a8d
-# sw.file.hash: 00b9784639579dd29e87f877c4a284f908943ee6
+# sw.version: 71f834aeff7b482970edd2e9f5fed0d597e3dbff
+# sw.file.hash: 32b79b7153518b52a437aa12ee07090bd4aea9fe
 /app.js
 # sw.file.hash: 3f96f24c854b00553aefa38bfe33417a3bb24629
 /app.js.map
 # sw.file.hash: a6aab421500581830708e34385e2166e7a039ba7
 /app/angular2-music.html
-# sw.file.hash: a1c473990f7bc1fa373b4f1b80e1c6e011a8be05
+# sw.file.hash: e9940ef9a102104a6f8c71b2be770012c5978e03
 /app/angular2-music.js
 # sw.file.hash: b04e3e28643a7ec5cb1a4d5c9bd92d2a81006d1c
 /app/angular2-music.js.map
-# sw.file.hash: e44a1b45eea81dfe01a4ec35e57ba9ce65f9bfd8
-/app/angular2-music.spec.js
-# sw.file.hash: cf569dcc8ef8a629d8e7e9e68a7b307d5e81d312
-/app/angular2-music.spec.js.map
 # sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
 /app/artist/artist-detail.component.css
 # sw.file.hash: c833b31c7d2633cf51219e0545ba536c96111889
 /app/artist/artist-detail.component.html
-# sw.file.hash: 985faed01693ae28f4ae54303a71fcef4e1753a0
+# sw.file.hash: 8ce5b34733693f19a004d1dd09cd36f50ceb7db4
 /app/artist/artist-detail.component.js
 # sw.file.hash: 5d62aade857fc317e1475824a55126526edc4f87
 /app/artist/artist-detail.component.js.map
-# sw.file.hash: c0b87a48b6e63d62d299fac6010e8056fba709fa
-/app/artist/artist-detail.component.spec.js
-# sw.file.hash: 587933ca660882420a41632bcaf477b25ae1ab19
-/app/artist/artist-detail.component.spec.js.map
 # sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
 /app/artist/artist-list.component.css
 # sw.file.hash: 59e9d0945c59425bee20c0fda3625aba17ff884d
 /app/artist/artist-list.component.html
-# sw.file.hash: 9be5dfce780bd6d38600ee9b4e77c399643096de
+# sw.file.hash: dc4d18d916e497f5c3e9c993881be78be49a1221
 /app/artist/artist-list.component.js
 # sw.file.hash: 00af35bc9f686d3dfe4109ad6012de92deed9648
 /app/artist/artist-list.component.js.map
-# sw.file.hash: 623c1c4c4eabe207b2381ffd3f37813c53838171
-/app/artist/artist-list.component.spec.js
-# sw.file.hash: 5d486665e3a83ea330a16e7d0c037480f9f1c9a2
-/app/artist/artist-list.component.spec.js.map
-# sw.file.hash: 1a9eebdd63e59d08c06267e9ec9c0361093a50f1
+# sw.file.hash: cab46a23e7a5eb764e6c01b49e00bef0b00966f3
 /app/artist/artist-root.component.js
 # sw.file.hash: 36dc05f8ca1f82e039fb8a2ccc582ee762aed061
 /app/artist/artist-root.component.js.map
-# sw.file.hash: a01513e8fa13a9b58ab6026fdcbc5a54cf6c4ffa
+# sw.file.hash: f8be8aed5b28235f37bfe4403214038ac6e0de39
 /app/artist/artist.service.js
 # sw.file.hash: 60135096339cd5faac496f62ef171729f48a990a
 /app/artist/artist.service.js.map
-# sw.file.hash: 2340a9ec4321246b9b192af2c31865031658d379
-/app/artist/artist.service.spec.js
-# sw.file.hash: 731eb157a63f481453b455a64082a8c530c69a8a
-/app/artist/artist.service.spec.js.map
-# sw.file.hash: 95b2720e5bb93ba2f579ae1ce9fae4c61b4e0aa1
+# sw.file.hash: 06e66caf409caa71434a8fdc0adf0a82b01c4647
 /app/artist/artists-mock.js
 # sw.file.hash: 69792d09c16e3c53d288f53aeda7aa9a47928323
 /app/artist/artists-mock.js.map
-# sw.file.hash: 993241e2464de638575a66b079d0166bc2ec8e61
+# sw.file.hash: 0fc8f10dc4b03b1e66440de57b94cc748365a362
 /app/artist/constants.js
 # sw.file.hash: b72030bc06d65b772c09cb612572287d23cea96a
 /app/artist/constants.js.map
-# sw.file.hash: fc18f47619e5310907c6a7e45fe727a72becd2f8
+# sw.file.hash: 41876199b650c1bb3d3f4032c7df0e640ee2c0ee
 /app/artist/html5-player.component.js
 # sw.file.hash: 952348369258465915d43f2fc9b3ed405c877f72
 /app/artist/html5-player.component.js.map
-# sw.file.hash: 33d484b969a0e35ea11517f95af8ab5224e7a4ae
+# sw.file.hash: 018e1ab299c56901b01b02b8537a625bbd73b625
 /app/artist/search.pipe.js
 # sw.file.hash: 5c8ff54cba2f42bf07159e602922a33912923106
 /app/artist/search.pipe.js.map
-# sw.file.hash: 7435912f660549e19bb72a3a438fa36e65146965
+# sw.file.hash: a02898df8e448d1f66bcc8075850bb428fbef5a3
 /app/artist/songs-mock.js
 # sw.file.hash: c1662c84ef9176b9664573da340fec7ee2b1ab68
 /app/artist/songs-mock.js.map
-# sw.file.hash: 9a0c4fbf5c369bd382ca1a661c347978c5a31c21
+# sw.file.hash: fe42d572231c7d0cb2a70cb40b00f70156e1d505
 /app/artist/songs.component.js
 # sw.file.hash: 7eaa9ab59143c1e20c2be2c2db16d2cb55aed2d9
 /app/artist/songs.component.js.map
-# sw.file.hash: 109bd94a459e41f43736358d2383eb3868ac7d6f
+# sw.file.hash: 140afa141ada4a81ad1dd0915e1e1ee192d331d2
 /app/route-config.js
 # sw.file.hash: d4498a04b230cc583dc4b7b4ca7748e87674a27d
 /app/route-config.js.map
 # sw.file.hash: 84161b857f5c547e3699ddfbffc6d8d737542e01
 /favicon.ico
-# sw.file.hash: 15d59dc8c4958c9279cfb22975338513c6bdda0a
+# sw.file.hash: 1f737b2671203d70e3bd2f269f2adddbd4279c4f
 /index.html
 # sw.file.hash: a3191a3a750612b5c66ee038601faaf9f1fbcefc
 /songs/Adele/rolling-in-the-deep.mp3
