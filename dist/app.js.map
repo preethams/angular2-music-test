@@ -1,0 +1,1 @@
+{"version":3,"file":"app.js","sourceRoot":"","sources":["app.ts"],"names":[],"mappings":";;;;;;;;;;;;;YAGA,mBAAS,CAAC,iCAAgB,EAAE,EAAE,CAAC,CAAC","sourcesContent":["import {bootstrap} from 'angular2/platform/browser';\nimport {Angular2MusicApp} from './app/angular2-music';\n\nbootstrap(Angular2MusicApp, []);\n"]}

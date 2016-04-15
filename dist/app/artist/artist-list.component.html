@@ -1,0 +1,24 @@
+<h2>Artist List</h2>
+
+<form>    
+    <label for="filter-artists">Filter Artists</label>
+    <div class="form-group">
+        <input 
+            type="text"
+            [(ngModel)]="query" 
+            id="name"
+            placeholder="... filter artists"
+            class="form-control"/>        
+    </div>    
+</form>
+
+<ul>
+  <li *ngFor="#artist of artists | search:query">
+    <a
+      [routerLink]="['Songs', { id: artist.id }]">
+      <strong>{{artist.id}}</strong>
+      -
+      {{artist.name}}
+    </a>
+  </li>
+</ul>

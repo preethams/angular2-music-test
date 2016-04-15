@@ -1,0 +1,1 @@
+{"version":3,"file":"constants.js","sourceRoot":"","sources":["constants.ts"],"names":[],"mappings":";;;QAAW,SAAS;;;;YAAT,uBAAA,SAAS,GAAG,SAAS,CAAA,CAAC","sourcesContent":["export var songsRoot = '/songs/';"]}
