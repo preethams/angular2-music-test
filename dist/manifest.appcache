@@ -1,6 +1,6 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: 71f834aeff7b482970edd2e9f5fed0d597e3dbff
+# sw.version: 4136fed4feb777c1c6dc402fb2d52d7a1f45cdfc
 # sw.file.hash: 32b79b7153518b52a437aa12ee07090bd4aea9fe
 /app.js
 # sw.file.hash: 3f96f24c854b00553aefa38bfe33417a3bb24629
@@ -68,37 +68,37 @@ CACHE MANIFEST
 # sw.file.hash: 1f737b2671203d70e3bd2f269f2adddbd4279c4f
 /index.html
 # sw.file.hash: a3191a3a750612b5c66ee038601faaf9f1fbcefc
-/songs/Adele/rolling-in-the-deep.mp3
+/songs-OLD/Adele/rolling-in-the-deep.mp3
 # sw.file.hash: bb30027dd17081488db47dd440a73195a0a945d6
-/songs/Adele/set-fire-on-the-train.mp3
+/songs-OLD/Adele/set-fire-on-the-train.mp3
 # sw.file.hash: fedfbedfd13a03a8900acbc1ba4d1b5a9dcbeda8
-/songs/Adele/skyfall.mp3
+/songs-OLD/Adele/skyfall.mp3
 # sw.file.hash: 9ef6f9ba17c9bd1e1efaa8f71617a60667f88ae0
-/songs/Beyonce/halo.mp3
+/songs-OLD/Beyonce/halo.mp3
 # sw.file.hash: 646f6201582814f8da3a20ec065ff1de491ede72
-/songs/Beyonce/love-on-top.mp3
+/songs-OLD/Beyonce/love-on-top.mp3
 # sw.file.hash: 7ee693e8651b92d6cd177cba3d90112989ac94fc
-/songs/Beyonce/run-the-world.mp3
+/songs-OLD/Beyonce/run-the-world.mp3
 # sw.file.hash: facfdf5f5fe9f9ef41b0666ebbd134a4f5028d1f
-/songs/Beyonce/single-ladies.mp3
+/songs-OLD/Beyonce/single-ladies.mp3
 # sw.file.hash: 9d90268aafed575dac83ee51170162af56fa2149
-/songs/ColdPlay/adventure-of-a-lifetime.mp3
+/songs-OLD/ColdPlay/adventure-of-a-lifetime.mp3
 # sw.file.hash: 13c0259329ec3bcc0c72a17ae5d0445937d13d25
-/songs/ColdPlay/hymm-for-the-weekend.mp3
+/songs-OLD/ColdPlay/hymm-for-the-weekend.mp3
 # sw.file.hash: b85a7caceca3e65efae6ce003176d7d09eceec1e
-/songs/ColdPlay/paradise.mp3
+/songs-OLD/ColdPlay/paradise.mp3
 # sw.file.hash: 084f80f5c26ce809679f12f35ab3ff9e0149a24a
-/songs/Meghan Trainor/all-about-that-bass.mp3
+/songs-OLD/Meghan Trainor/all-about-that-bass.mp3
 # sw.file.hash: a8c13155d16e484b4a95b3a5ea7ab58dc72c12ff
-/songs/Meghan Trainor/dear-future-husband.mp3
+/songs-OLD/Meghan Trainor/dear-future-husband.mp3
 # sw.file.hash: 9582287a83f32fff18c15704b3f34e0114eaf739
-/songs/Meghan Trainor/no.mp3
+/songs-OLD/Meghan Trainor/no.mp3
 # sw.file.hash: 4d28c6aff914a2320b4f0f8ff30d11e2033bbab4
-/songs/Rihanna/diamonds.mp3
+/songs-OLD/Rihanna/diamonds.mp3
 # sw.file.hash: 9d5323a70df13345faaab87282da846b1ea5b5a9
-/songs/Rihanna/we-found-love.mp3
+/songs-OLD/Rihanna/we-found-love.mp3
 # sw.file.hash: 5a391ea314d18f3acddf11ef85c4de6f90c231cd
-/songs/Rihanna/work.mp3
+/songs-OLD/Rihanna/work.mp3
 # sw.file.hash: e5e036b749a151842a579c1f964e7e57e9abd09d
 /tsconfig.json
 # sw.file.hash: be771bd0a4170c04abff753212def2a2376a408e
