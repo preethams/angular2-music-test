@@ -12,7 +12,6 @@ import {ArtistService} from './artist.service';
 })
 @RouteConfig([
   {path: '/', name: 'ArtistList', component: ArtistListComponent, useAsDefault: true},
-//   {path: '/:id', name: 'ArtistDetail', component: ArtistDetailComponent}
   {path: '/:id', name: 'Songs', component: SongsComponent}
 ])
 export class ArtistRoot {

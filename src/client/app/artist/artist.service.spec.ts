@@ -7,7 +7,7 @@ describe('ArtistService', () => {
   beforeEachProviders(() => [ArtistService]);
 
   it('should get all artists', inject([ArtistService], (artistService:ArtistService) => {
-    artistService.getAll().then(artists => expect(artists.length).toBe(3));
+    artistService.getAll().then(artists => expect(artists.length).toBe(13));
   }));
 
   it('should get one artist', inject([ArtistService], (artistService:ArtistService) => {

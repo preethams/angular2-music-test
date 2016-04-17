@@ -1,5 +1,3 @@
-<h2>Play your favorite songs</h2>
-
 <form>    
     <div class="form-group">
         <input 
@@ -7,21 +5,9 @@
             [(ngModel)]="query" 
             id="name"
             placeholder="... filter artists"
-            class="form-control"/>        
+            class="form-control input-lg"/>        
     </div>    
 </form>
-
-<!--<ul class="list-group">
-  <li *ngFor="#artist of artists | search:query" class="list-group-item col-xs-4">
-    <a
-      [routerLink]="['Songs', { id: artist.id }]">
-      <strong>{{artist.id}}</strong>
-      -
-      {{artist.name}}
-    </a>
-  </li>
-</ul>-->
-
 
 <div class="row">
   <div *ngFor="#artist of artists | search:query" class="col-xs-6 col-md-3">
