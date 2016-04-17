@@ -1,61 +1,73 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: d1514ccd6ccfe0add20b89d643395f9583a738cc
-# sw.file.hash: 32b79b7153518b52a437aa12ee07090bd4aea9fe
+# sw.version: fd2db19edf6a544a00c5866fe6ba956f76cfbef8
+# sw.file.hash: 00b9784639579dd29e87f877c4a284f908943ee6
 /app.js
 # sw.file.hash: 3f96f24c854b00553aefa38bfe33417a3bb24629
 /app.js.map
 # sw.file.hash: 7d0af9cf33ae9b18444456c5a3c15e4cd773dde6
 /app/angular2-music.html
-# sw.file.hash: e92b93ad4fdf5b8a23ea372a51d4349c02a60b0e
+# sw.file.hash: a1fa59be15fe2812f8572656fe375ae7663b0f0e
 /app/angular2-music.js
 # sw.file.hash: 9b2b193214c0f76db147c429af708e9b039cea12
 /app/angular2-music.js.map
+# sw.file.hash: e44a1b45eea81dfe01a4ec35e57ba9ce65f9bfd8
+/app/angular2-music.spec.js
+# sw.file.hash: cf569dcc8ef8a629d8e7e9e68a7b307d5e81d312
+/app/angular2-music.spec.js.map
 # sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
 /app/artist/artist-list.component.css
 # sw.file.hash: 5d2a154cb4868a5b75f17ffc149b324dd9181e44
 /app/artist/artist-list.component.html
-# sw.file.hash: 31fdd1399cc7d6d025dde6e1e58219063657ebdd
+# sw.file.hash: 6eeb58881bc1e35c402ec9d0a0a6cac4b0946a3e
 /app/artist/artist-list.component.js
 # sw.file.hash: e97a4257abc0555e840596e3db4989e1c57bb5de
 /app/artist/artist-list.component.js.map
-# sw.file.hash: cab46a23e7a5eb764e6c01b49e00bef0b00966f3
+# sw.file.hash: 623c1c4c4eabe207b2381ffd3f37813c53838171
+/app/artist/artist-list.component.spec.js
+# sw.file.hash: 5d486665e3a83ea330a16e7d0c037480f9f1c9a2
+/app/artist/artist-list.component.spec.js.map
+# sw.file.hash: 93a392d447c514120748661733d2b781c036ae6a
 /app/artist/artist-root.component.js
 # sw.file.hash: b85bbf9209b180bdbe67a6aa93675e9531149aa5
 /app/artist/artist-root.component.js.map
-# sw.file.hash: f8be8aed5b28235f37bfe4403214038ac6e0de39
+# sw.file.hash: a01513e8fa13a9b58ab6026fdcbc5a54cf6c4ffa
 /app/artist/artist.service.js
 # sw.file.hash: 60135096339cd5faac496f62ef171729f48a990a
 /app/artist/artist.service.js.map
-# sw.file.hash: a5cd954f103f30657b82752c0205398e87710a05
+# sw.file.hash: b414503b21261d21093b2c4a0927c27a3c313c77
+/app/artist/artist.service.spec.js
+# sw.file.hash: de54e4a75a849aa22103ca78e41d88e7f275c53b
+/app/artist/artist.service.spec.js.map
+# sw.file.hash: 8be30340ca33250ef349cb05022510ac260f337b
 /app/artist/artists-mock.js
 # sw.file.hash: b371fe6f7b5d8614a96df55b622297c55713c54f
 /app/artist/artists-mock.js.map
-# sw.file.hash: eec70d588fbff2903d06f4d1dc2eaceab08e4d89
+# sw.file.hash: 74d3dfcba770e010d703e6897369a003aa9ca6d5
 /app/artist/constants.js
 # sw.file.hash: dadf973069eaafeef508084cf04a2ec9abb52664
 /app/artist/constants.js.map
-# sw.file.hash: c883da6f6daf910e7d832bd577da11b738cfb209
+# sw.file.hash: 32ab35d5f386b44ad34b36c695171785cb604d00
 /app/artist/html5-player.component.js
 # sw.file.hash: 89d4234cfbded57c447af1e7cf8c1915837561e8
 /app/artist/html5-player.component.js.map
-# sw.file.hash: 018e1ab299c56901b01b02b8537a625bbd73b625
+# sw.file.hash: 33d484b969a0e35ea11517f95af8ab5224e7a4ae
 /app/artist/search.pipe.js
 # sw.file.hash: 5c8ff54cba2f42bf07159e602922a33912923106
 /app/artist/search.pipe.js.map
-# sw.file.hash: 8b5f63a2b8857c37865498703270299c7f77c451
+# sw.file.hash: 2c71463bb5b5c33c0a0b26ab87c6508666b2dadc
 /app/artist/songs-mock.js
 # sw.file.hash: 122e4878e189dad848f11bc9970dd0a3dd681500
 /app/artist/songs-mock.js.map
-# sw.file.hash: f272ff63c874a432f3803ce1489c6dae9c5d99a9
+# sw.file.hash: 1058fe54123a427706e8b6dab6ba7a7e5e03cff7
 /app/artist/songs.component.js
 # sw.file.hash: d20b2eecd7c9baea66fef190d4c80cbcba77d36a
 /app/artist/songs.component.js.map
-# sw.file.hash: b35d591d32a69059988e6b2230a671102b4cc423
+# sw.file.hash: 773569eb7828ad26736ade875321d153fa62afd6
 /app/header.component.js
-# sw.file.hash: e55e67a508cd6225603f038476d91ccf3ff48cea
+# sw.file.hash: 19179a45857a1c82f384e0aad008e3d5e16cfae1
 /app/header.component.js.map
-# sw.file.hash: 140afa141ada4a81ad1dd0915e1e1ee192d331d2
+# sw.file.hash: 109bd94a459e41f43736358d2383eb3868ac7d6f
 /app/route-config.js
 # sw.file.hash: d4498a04b230cc583dc4b7b4ca7748e87674a27d
 /app/route-config.js.map
@@ -87,7 +99,7 @@ CACHE MANIFEST
 /images/rihanna.jpg
 # sw.file.hash: 9abe80f5e22cfa38371d999675fdc27cea4ee465
 /images/taylor-swift.jpg
-# sw.file.hash: deddcc31b8c0d09158a8740bfa7a439bb27a9dc6
+# sw.file.hash: 22b1c69d8e0ee60da225f8e2f8b7476196db131a
 /index.html
 # sw.file.hash: a3191a3a750612b5c66ee038601faaf9f1fbcefc
 /songs/Adele/rolling-in-the-deep.mp3
