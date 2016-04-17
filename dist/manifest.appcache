@@ -1,71 +1,113 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: 2eba62cf055ec1829f864d984dc7161380c09764
-# sw.file.hash: 32b79b7153518b52a437aa12ee07090bd4aea9fe
+# sw.version: c342fea0f9cc4e12764129f0908111901ba65399
+# sw.file.hash: 00b9784639579dd29e87f877c4a284f908943ee6
 /app.js
 # sw.file.hash: 3f96f24c854b00553aefa38bfe33417a3bb24629
 /app.js.map
 # sw.file.hash: a6aab421500581830708e34385e2166e7a039ba7
 /app/angular2-music.html
-# sw.file.hash: e9940ef9a102104a6f8c71b2be770012c5978e03
+# sw.file.hash: a1c473990f7bc1fa373b4f1b80e1c6e011a8be05
 /app/angular2-music.js
 # sw.file.hash: b04e3e28643a7ec5cb1a4d5c9bd92d2a81006d1c
 /app/angular2-music.js.map
+# sw.file.hash: e44a1b45eea81dfe01a4ec35e57ba9ce65f9bfd8
+/app/angular2-music.spec.js
+# sw.file.hash: cf569dcc8ef8a629d8e7e9e68a7b307d5e81d312
+/app/angular2-music.spec.js.map
 # sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
 /app/artist/artist-detail.component.css
 # sw.file.hash: c833b31c7d2633cf51219e0545ba536c96111889
 /app/artist/artist-detail.component.html
-# sw.file.hash: 8ce5b34733693f19a004d1dd09cd36f50ceb7db4
+# sw.file.hash: 985faed01693ae28f4ae54303a71fcef4e1753a0
 /app/artist/artist-detail.component.js
 # sw.file.hash: 5d62aade857fc317e1475824a55126526edc4f87
 /app/artist/artist-detail.component.js.map
+# sw.file.hash: c0b87a48b6e63d62d299fac6010e8056fba709fa
+/app/artist/artist-detail.component.spec.js
+# sw.file.hash: 587933ca660882420a41632bcaf477b25ae1ab19
+/app/artist/artist-detail.component.spec.js.map
 # sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
 /app/artist/artist-list.component.css
-# sw.file.hash: 59e9d0945c59425bee20c0fda3625aba17ff884d
+# sw.file.hash: 9ea367e0d729d6703da3c60597230e1be719dcdf
 /app/artist/artist-list.component.html
-# sw.file.hash: dc4d18d916e497f5c3e9c993881be78be49a1221
+# sw.file.hash: 6eeb58881bc1e35c402ec9d0a0a6cac4b0946a3e
 /app/artist/artist-list.component.js
-# sw.file.hash: 00af35bc9f686d3dfe4109ad6012de92deed9648
+# sw.file.hash: e97a4257abc0555e840596e3db4989e1c57bb5de
 /app/artist/artist-list.component.js.map
-# sw.file.hash: cab46a23e7a5eb764e6c01b49e00bef0b00966f3
+# sw.file.hash: 623c1c4c4eabe207b2381ffd3f37813c53838171
+/app/artist/artist-list.component.spec.js
+# sw.file.hash: 5d486665e3a83ea330a16e7d0c037480f9f1c9a2
+/app/artist/artist-list.component.spec.js.map
+# sw.file.hash: 1a9eebdd63e59d08c06267e9ec9c0361093a50f1
 /app/artist/artist-root.component.js
 # sw.file.hash: 36dc05f8ca1f82e039fb8a2ccc582ee762aed061
 /app/artist/artist-root.component.js.map
-# sw.file.hash: f8be8aed5b28235f37bfe4403214038ac6e0de39
+# sw.file.hash: a01513e8fa13a9b58ab6026fdcbc5a54cf6c4ffa
 /app/artist/artist.service.js
 # sw.file.hash: 60135096339cd5faac496f62ef171729f48a990a
 /app/artist/artist.service.js.map
-# sw.file.hash: 06e66caf409caa71434a8fdc0adf0a82b01c4647
+# sw.file.hash: 2340a9ec4321246b9b192af2c31865031658d379
+/app/artist/artist.service.spec.js
+# sw.file.hash: 731eb157a63f481453b455a64082a8c530c69a8a
+/app/artist/artist.service.spec.js.map
+# sw.file.hash: 8be30340ca33250ef349cb05022510ac260f337b
 /app/artist/artists-mock.js
-# sw.file.hash: 69792d09c16e3c53d288f53aeda7aa9a47928323
+# sw.file.hash: b371fe6f7b5d8614a96df55b622297c55713c54f
 /app/artist/artists-mock.js.map
-# sw.file.hash: 2b2601bb11f8d20759323250a340cd043d4ae49d
+# sw.file.hash: 74d3dfcba770e010d703e6897369a003aa9ca6d5
 /app/artist/constants.js
-# sw.file.hash: e3f73723d31ad6af5c01639f783695d63bbee5a7
+# sw.file.hash: dadf973069eaafeef508084cf04a2ec9abb52664
 /app/artist/constants.js.map
-# sw.file.hash: 41876199b650c1bb3d3f4032c7df0e640ee2c0ee
+# sw.file.hash: 32ab35d5f386b44ad34b36c695171785cb604d00
 /app/artist/html5-player.component.js
-# sw.file.hash: 952348369258465915d43f2fc9b3ed405c877f72
+# sw.file.hash: 89d4234cfbded57c447af1e7cf8c1915837561e8
 /app/artist/html5-player.component.js.map
-# sw.file.hash: 018e1ab299c56901b01b02b8537a625bbd73b625
+# sw.file.hash: 33d484b969a0e35ea11517f95af8ab5224e7a4ae
 /app/artist/search.pipe.js
 # sw.file.hash: 5c8ff54cba2f42bf07159e602922a33912923106
 /app/artist/search.pipe.js.map
-# sw.file.hash: a02898df8e448d1f66bcc8075850bb428fbef5a3
+# sw.file.hash: 2c71463bb5b5c33c0a0b26ab87c6508666b2dadc
 /app/artist/songs-mock.js
-# sw.file.hash: c1662c84ef9176b9664573da340fec7ee2b1ab68
+# sw.file.hash: 122e4878e189dad848f11bc9970dd0a3dd681500
 /app/artist/songs-mock.js.map
-# sw.file.hash: fe42d572231c7d0cb2a70cb40b00f70156e1d505
+# sw.file.hash: 1058fe54123a427706e8b6dab6ba7a7e5e03cff7
 /app/artist/songs.component.js
-# sw.file.hash: 7eaa9ab59143c1e20c2be2c2db16d2cb55aed2d9
+# sw.file.hash: d20b2eecd7c9baea66fef190d4c80cbcba77d36a
 /app/artist/songs.component.js.map
-# sw.file.hash: 140afa141ada4a81ad1dd0915e1e1ee192d331d2
+# sw.file.hash: 109bd94a459e41f43736358d2383eb3868ac7d6f
 /app/route-config.js
 # sw.file.hash: d4498a04b230cc583dc4b7b4ca7748e87674a27d
 /app/route-config.js.map
 # sw.file.hash: 84161b857f5c547e3699ddfbffc6d8d737542e01
 /favicon.ico
-# sw.file.hash: 1f737b2671203d70e3bd2f269f2adddbd4279c4f
+# sw.file.hash: 73a8438a6e93ade5fc950da4dd362c913aaa9fb1
+/images/adele.jpg
+# sw.file.hash: 14fbb861af556fad465b4ccb9722ea4351df0927
+/images/beyonce.jpg
+# sw.file.hash: 136138d0695418aad0733e5dd77ead5d9b91e800
+/images/bruno-mars.jpg
+# sw.file.hash: a708fa3cd33939cf0ed8dd488f4724eca7574228
+/images/coldplay.jpg
+# sw.file.hash: 3d993a60459e143a3c8465273ba9e0ec671b5021
+/images/echosmith.jpg
+# sw.file.hash: cb5f4036beb84b2eb11c6b372dd10d546c97809b
+/images/flo-rida.jpg
+# sw.file.hash: 9717e30ccfa310c1f560fdea9dd8a526adb1eeef
+/images/justin-timberlake.jpg
+# sw.file.hash: 43a36b588d1a1b085ae15ae10a25396e9ef51488
+/images/lady-gaga.jpg
+# sw.file.hash: 3c41770cb1493867078e0f4f21fd7007452ec9f3
+/images/lorde.jpg
+# sw.file.hash: 6666abaff468f11b1dee9a067025fbdcc12fe1c1
+/images/maroon-5.jpg
+# sw.file.hash: 83dda75f6fa61b5d2638f3f3c0596c4817fe8227
+/images/meghan-trainor.jpg
+# sw.file.hash: 5d041129adfd75d10cbfc6417f07ebd675cfc29b
+/images/rihanna.jpg
+# sw.file.hash: 9abe80f5e22cfa38371d999675fdc27cea4ee465
+/images/taylor-swift.jpg
+# sw.file.hash: eb58c0fd9ccaa12ad3588834bb44392cc6d3f2ba
 /index.html
 # sw.file.hash: a3191a3a750612b5c66ee038601faaf9f1fbcefc
 /songs/Adele/rolling-in-the-deep.mp3
@@ -81,12 +123,54 @@ CACHE MANIFEST
 /songs/Beyonce/run-the-world.mp3
 # sw.file.hash: facfdf5f5fe9f9ef41b0666ebbd134a4f5028d1f
 /songs/Beyonce/single-ladies.mp3
+# sw.file.hash: d7762913de37e06888c7bc34ba72ed0576311555
+/songs/Bruno Mars/just-the-way-you-are.mp3
+# sw.file.hash: 7b4af65c641f25ccf29579bf9765fc13a1049c02
+/songs/Bruno Mars/locked-out-of-heaven.mp3
+# sw.file.hash: 5e818ec627b7e2f0c094181d0140a5dbd6144080
+/songs/Bruno Mars/uptown-funk.mp3
 # sw.file.hash: 9d90268aafed575dac83ee51170162af56fa2149
 /songs/ColdPlay/adventure-of-a-lifetime.mp3
 # sw.file.hash: 13c0259329ec3bcc0c72a17ae5d0445937d13d25
 /songs/ColdPlay/hymm-for-the-weekend.mp3
 # sw.file.hash: b85a7caceca3e65efae6ce003176d7d09eceec1e
 /songs/ColdPlay/paradise.mp3
+# sw.file.hash: 88b01da56db1d9e92d2cb2c11e6f5d8d64d0ad99
+/songs/Echosmith/bright.mp3
+# sw.file.hash: 493b6ab9ea3e26ef990495d88b26b9a57b18ef14
+/songs/Echosmith/cool-kids.mp3
+# sw.file.hash: 0cdaa67080b4c5d8a2c2627f770cb918f1d25c84
+/songs/Echosmith/lets-love.mp3
+# sw.file.hash: 9fcbfee0ee6431352c3cddaf76b55e69c4660098
+/songs/Flo Rida/good-feeling.mp3
+# sw.file.hash: 60d60afac38de89f68e7bce0ed83684e174c5732
+/songs/Flo Rida/my-house.mp3
+# sw.file.hash: c0d652ee6043e2a203a06660e04c0176e429f7d5
+/songs/Justin Timberlake/mirrors.mp3
+# sw.file.hash: 91220f1bf3bef83936619a1f78ba7ec3c68626dc
+/songs/Justin Timberlake/rock-your-body.mp3
+# sw.file.hash: 4338b46d01bd9263946e6923298c90c86e1a7d28
+/songs/Justin Timberlake/what-goes-around.mp3
+# sw.file.hash: c9ea350d7e7abe379c0505aba20298118e6c57e3
+/songs/Lady Gaga/alejandro.mp3
+# sw.file.hash: 2b0c6642a65a835a5c5d6cb921bcd4dea5319500
+/songs/Lady Gaga/bad-romance.mp3
+# sw.file.hash: aeafef65686bf62f605cf0127a575eaaefad1aff
+/songs/Lady Gaga/poker.mp3
+# sw.file.hash: 72efb0f071eb083d9be63e21365c71e65b18024f
+/songs/Lorde/disclosure-magnets.mp3
+# sw.file.hash: f08515561801253c3e9f0bdfefe7b4d0b728210b
+/songs/Lorde/royals.mp3
+# sw.file.hash: e37341f50e6ec8eec1ce3d412a5ab5f336e9712c
+/songs/Lorde/team.mp3
+# sw.file.hash: 098919e9d921552f6761195b352273b833f8be74
+/songs/Maroon 5/animals.mp3
+# sw.file.hash: dd0a5f3dee98b8ecef163a14a400ad8d8a961a63
+/songs/Maroon 5/one-more-night.mp3
+# sw.file.hash: 91cc939baa9a467e918941fc4b513eef41b435b7
+/songs/Maroon 5/payphone.mp3
+# sw.file.hash: 065b47bf907e1035ea0c988ace7927cf13d95bd0
+/songs/Maroon 5/sugar.mp3
 # sw.file.hash: 084f80f5c26ce809679f12f35ab3ff9e0149a24a
 /songs/Meghan Trainor/all-about-that-bass.mp3
 # sw.file.hash: a8c13155d16e484b4a95b3a5ea7ab58dc72c12ff
@@ -99,6 +183,12 @@ CACHE MANIFEST
 /songs/Rihanna/we-found-love.mp3
 # sw.file.hash: 5a391ea314d18f3acddf11ef85c4de6f90c231cd
 /songs/Rihanna/work.mp3
+# sw.file.hash: 5ef99eb0f3dc706f4b3fe4a7e96ea4cd263f2fdb
+/songs/Taylor Swift/blank-space.mp3
+# sw.file.hash: b4f23afb69092e714293c2d0cd47c58d710ff619
+/songs/Taylor Swift/out-of-the-woods.mp3
+# sw.file.hash: b3c868c5099e5555ebb06f2411aa3e5ec85e3579
+/songs/Taylor Swift/wildest-dreams.mp3
 # sw.file.hash: e5e036b749a151842a579c1f964e7e57e9abd09d
 /tsconfig.json
 # sw.file.hash: be771bd0a4170c04abff753212def2a2376a408e

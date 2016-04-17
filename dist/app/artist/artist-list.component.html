@@ -1,7 +1,6 @@
-<h2>Artist List</h2>
+<h2>Play your favorite songs</h2>
 
 <form>    
-    <label for="filter-artists">Filter Artists</label>
     <div class="form-group">
         <input 
             type="text"
@@ -12,8 +11,8 @@
     </div>    
 </form>
 
-<ul>
-  <li *ngFor="#artist of artists | search:query">
+<!--<ul class="list-group">
+  <li *ngFor="#artist of artists | search:query" class="list-group-item col-xs-4">
     <a
       [routerLink]="['Songs', { id: artist.id }]">
       <strong>{{artist.id}}</strong>
@@ -21,4 +20,19 @@
       {{artist.name}}
     </a>
   </li>
-</ul>
+</ul>-->
+
+
+<div class="row">
+  <div *ngFor="#artist of artists | search:query" class="col-xs-6 col-md-3">
+    <div class="thumbnail">
+      <a
+      [routerLink]="['Songs', { id: artist.id }]">
+      <img src="{{imageRoot}}{{artist.src}}" alt="{{imageRoot}}{{artist.src}}">      
+      <div class="caption">
+        <h3>{{artist.name}}</h3>
+      </div>      
+      </a>
+    </div>
+  </div>
+</div>

@@ -1,1 +1,1 @@
-{"version":3,"file":"constants.js","sourceRoot":"","sources":["constants.ts"],"names":[],"mappings":";;;QAAW,SAAS;;;;YAAT,uBAAA,SAAS,GAAG,6CAA6C,CAAA,CAAC","sourcesContent":["export var songsRoot = 'http://songs-assets.s3.amazonaws.com/songs/';"]}
+{"version":3,"file":"constants.js","sourceRoot":"","sources":["constants.ts"],"names":[],"mappings":";;;QAAW,SAAS,EACT,SAAS;;;;YADT,uBAAA,SAAS,GAAG,6CAA6C,CAAA,CAAC;YAC1D,uBAAA,SAAS,GAAG,UAAU,CAAA,CAAC","sourcesContent":["export var songsRoot = 'http://songs-assets.s3.amazonaws.com/songs/';\nexport var imageRoot = '/images/';"]}
