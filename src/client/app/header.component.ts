@@ -4,7 +4,7 @@ import {Component} from 'angular2/core';
   selector: '<app-header></app-header',
   template: `
     <nav class="navbar navbar-custom">
-        <h2 class="text-center text-custom">Play your favorite song...</h2>        
+        <h2 class="text-center text-custom">Play your song...</h2>        
     </nav>
   `,
   styles: [`
