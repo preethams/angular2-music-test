@@ -1,6 +1,6 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: f579ceea251370d2cbfede4a985bbed6eab498ad
+# sw.version: ad35564896afc07fd6cdf37bb1e454341fd27e87
 # sw.file.hash: 32b79b7153518b52a437aa12ee07090bd4aea9fe
 /app.js
 # sw.file.hash: 3f96f24c854b00553aefa38bfe33417a3bb24629
@@ -87,7 +87,7 @@ CACHE MANIFEST
 /images/rihanna.jpg
 # sw.file.hash: 9abe80f5e22cfa38371d999675fdc27cea4ee465
 /images/taylor-swift.jpg
-# sw.file.hash: 285863342365da96a53a954826f6415b04965ea5
+# sw.file.hash: deddcc31b8c0d09158a8740bfa7a439bb27a9dc6
 /index.html
 # sw.file.hash: a3191a3a750612b5c66ee038601faaf9f1fbcefc
 /songs/Adele/rolling-in-the-deep.mp3
