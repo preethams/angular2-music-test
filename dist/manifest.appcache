@@ -1,6 +1,6 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: ad35564896afc07fd6cdf37bb1e454341fd27e87
+# sw.version: d1514ccd6ccfe0add20b89d643395f9583a738cc
 # sw.file.hash: 32b79b7153518b52a437aa12ee07090bd4aea9fe
 /app.js
 # sw.file.hash: 3f96f24c854b00553aefa38bfe33417a3bb24629
@@ -51,9 +51,9 @@ CACHE MANIFEST
 /app/artist/songs.component.js
 # sw.file.hash: d20b2eecd7c9baea66fef190d4c80cbcba77d36a
 /app/artist/songs.component.js.map
-# sw.file.hash: aa161690fd1c44bdcc587bb655a89383ddd2f8a9
+# sw.file.hash: b35d591d32a69059988e6b2230a671102b4cc423
 /app/header.component.js
-# sw.file.hash: b1014f159b9b31fda5b71d3cd23b733000976260
+# sw.file.hash: e55e67a508cd6225603f038476d91ccf3ff48cea
 /app/header.component.js.map
 # sw.file.hash: 140afa141ada4a81ad1dd0915e1e1ee192d331d2
 /app/route-config.js
