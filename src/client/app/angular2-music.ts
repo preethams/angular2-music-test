@@ -10,6 +10,7 @@ import {HeaderComponent} from './header.component';
   directives: [ROUTER_DIRECTIVES, HeaderComponent],
   pipes: []
 })
+
 @RouteConfig([
 ].concat(CliRouteConfig))
 

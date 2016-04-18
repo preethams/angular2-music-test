@@ -1,15 +1,15 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: 6530fc9f1eb9d9057ea948443c0eb27eb4a05c36
+# sw.version: 5619794a9ea6685a65a005b90dd8820adbe1ad5f
 # sw.file.hash: 32b79b7153518b52a437aa12ee07090bd4aea9fe
 /app.js
 # sw.file.hash: 3f96f24c854b00553aefa38bfe33417a3bb24629
 /app.js.map
-# sw.file.hash: 7d0af9cf33ae9b18444456c5a3c15e4cd773dde6
+# sw.file.hash: 213508af307ad9cbd0d1a672b535f92a395fbaf2
 /app/angular2-music.html
 # sw.file.hash: e92b93ad4fdf5b8a23ea372a51d4349c02a60b0e
 /app/angular2-music.js
-# sw.file.hash: 9b2b193214c0f76db147c429af708e9b039cea12
+# sw.file.hash: dcf9147bce7bec26005490be0ad02f72533e18c7
 /app/angular2-music.js.map
 # sw.file.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
 /app/artist/artist-list.component.css
@@ -51,9 +51,9 @@ CACHE MANIFEST
 /app/artist/songs.component.js
 # sw.file.hash: d20b2eecd7c9baea66fef190d4c80cbcba77d36a
 /app/artist/songs.component.js.map
-# sw.file.hash: 7e082f4257b399bca976b500a334f5baead5d5a5
+# sw.file.hash: aa161690fd1c44bdcc587bb655a89383ddd2f8a9
 /app/header.component.js
-# sw.file.hash: 19179a45857a1c82f384e0aad008e3d5e16cfae1
+# sw.file.hash: b1014f159b9b31fda5b71d3cd23b733000976260
 /app/header.component.js.map
 # sw.file.hash: 140afa141ada4a81ad1dd0915e1e1ee192d331d2
 /app/route-config.js
@@ -87,7 +87,7 @@ CACHE MANIFEST
 /images/rihanna.jpg
 # sw.file.hash: 9abe80f5e22cfa38371d999675fdc27cea4ee465
 /images/taylor-swift.jpg
-# sw.file.hash: 74415e65d411bf45859daafbe5c8b779ae4da3ac
+# sw.file.hash: deddcc31b8c0d09158a8740bfa7a439bb27a9dc6
 /index.html
 # sw.file.hash: a3191a3a750612b5c66ee038601faaf9f1fbcefc
 /songs/Adele/rolling-in-the-deep.mp3
