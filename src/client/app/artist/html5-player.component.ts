@@ -11,6 +11,12 @@ import {Component, Input} from 'angular2/core';
         audio {
             width: 100%;
         }
+        /*
+          max-width in shadow dom, override it in chrome and safari browsers
+        */ 
+        audio::-webkit-media-controls-enclosure {
+            max-width: 100%;
+        }
     `],   
 })
 
