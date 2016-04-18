@@ -11,6 +11,7 @@ A music test app written in Angular2. The following describes how to work on thi
 
 #Install this app
 * git clone https://github.com/preethams/angular2-music-test.git
+* npm install
 * cd angular2-music-test
 
 #Start the development server
@@ -29,5 +30,3 @@ A music test app written in Angular2. The following describes how to work on thi
 * [Angular2](https://angular.io/)
 * [Typescript](http://www.typescriptlang.org/)
 * [ES6] (http://es6-features.org/#Constants)
-
-
